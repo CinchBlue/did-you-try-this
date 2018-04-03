@@ -5,6 +5,7 @@ Use it for plaintext as well!
 
 # The Template
 
+```
 I tried/checked these things:
 
 - Google:
@@ -13,3 +14,4 @@ I tried/checked these things:
 - Package dependencies:
 - Other peer:
 - Textbook:
+```
