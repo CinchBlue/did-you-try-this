@@ -15,3 +15,12 @@ I tried/checked these things:
 - Other peer:
 - Textbook:
 ```
+
+I tried/checked these things:
+
+- **Google:**
+- **Internal wiki:**
+- **Project/code documentation:**
+- **Package dependencies:**
+- **Other peer:**
+- **Textbook:**
