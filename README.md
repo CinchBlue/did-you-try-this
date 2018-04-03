@@ -15,6 +15,7 @@ I tried/checked these things:
 - Other peer:
 - Textbook:
 ```
+---
 
 I tried/checked these things:
 
